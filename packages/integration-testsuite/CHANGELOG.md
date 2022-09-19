@@ -1,5 +1,16 @@
 # @apollo/server-integration-testsuite
 
+## 4.0.0-alpha.12
+
+### Patch Changes
+
+- [#6850](https://github.com/apollographql/apollo-server/pull/6850) [`256f2424b`](https://github.com/apollographql/apollo-server/commit/256f2424bf6e8420e2582bb2d7a685c810c40bfe) Thanks [@renovate](https://github.com/apps/renovate)! - Expand jest peer deps to include v29
+
+- [#6910](https://github.com/apollographql/apollo-server/pull/6910) [`6541f92c9`](https://github.com/apollographql/apollo-server/commit/6541f92c9a0a97b818d637fbac9fb6a2fe14c37c) Thanks [@trevor-scheer](https://github.com/trevor-scheer)! - Update snapshot format to future jest v29 default
+
+- Updated dependencies []:
+  - @apollo/server@4.0.0-alpha.12
+
 ## 4.0.0-alpha.11
 
 ### Patch Changes
